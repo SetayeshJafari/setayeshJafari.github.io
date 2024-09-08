@@ -1,3 +1,44 @@
+/* font nerko */
+
+.nerko-one-regular {
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
 .red{
     color: red;
+}
+
+.back-info{
+    background-color: #007aff !important;
+}
+
+.text-infoo{
+    color: #007aff !important;
+}
+
+/* start progress */
+.skill {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.progress-bar {
+    background: #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.progress {
+    height: 20px;
+    background-color: #4caf50; /* رنگ سبز */
+    text-align: center;
+    line-height: 20px; /* وسط قرار دادن متن */
+    color: white;
 }
